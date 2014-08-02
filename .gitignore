@@ -1,0 +1,6 @@
+**/.DS_STORE
+**/*.iml
+**/*.log
+**/*.local
+**/target
+**/uploads
