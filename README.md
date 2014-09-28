@@ -1,4 +1,4 @@
-algo1
-=====
+algs4partI
+==========
 
-algo1 contains all programming exercises for Sedgewick's Coursera course (Algorithms Part 1)
+algs4partI contains all programming exercises for Sedgewick's Coursera course (Algorithms Part 1)
